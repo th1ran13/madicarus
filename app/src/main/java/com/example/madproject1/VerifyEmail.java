@@ -50,7 +50,7 @@ public class VerifyEmail extends AppCompatActivity {
         if(!auth.getCurrentUser().isEmailVerified()){
             btn_verify.setVisibility(View.VISIBLE);
             verifyEmail.setVisibility(View.VISIBLE);
-//            startActivity(new Intent(getApplicationContext() , VerifyEmail.class));
+
 
         }
 
@@ -64,7 +64,7 @@ public class VerifyEmail extends AppCompatActivity {
                         Toast.makeText(VerifyEmail.this , "Check your Email" , Toast.LENGTH_SHORT).show();
                         btn_verify.setVisibility(View.GONE);
                         verifyEmail.setVisibility(View.GONE);
-                        //startActivity(new Intent(getApplicationContext() , Login.class));
+
                     }
                 });
             }
