@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import java.security.AllPermission;
+
 public class Category extends AppCompatActivity {
 
     Button btn_expressway;
@@ -19,12 +21,5 @@ public class Category extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_category);
 
-        btn_movie = findViewById(R.id.btn_movie);
-        btn_movie.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext() , Login.class));
-            }
-        });
     }
 }
