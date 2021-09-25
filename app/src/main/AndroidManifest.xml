@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MadProject1">
+        <activity android:name=".MovieDetail" />
+        <activity android:name=".AllMovies" >
+
+
+        </activity>
         <activity android:name=".Category"></activity>
         <activity android:name=".VerifyEmail" />
         <activity android:name=".Login">
