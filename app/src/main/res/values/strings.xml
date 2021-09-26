@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TicketBooking</string>
+    <string name="et_name">Concert Name</string>
+    <string name="et_ticketType">Ticket Type</string>
+    <string name="et_ticketCount">Ticket Count</string>
+
+    <string name="tv_type1">Comfort: Rs.1500</string>
+    <string name="tv_type2">Free Seating: Rs.800</string>
+    <string name="tv_type3">Balcony: Rs.500</string>
+</resources>
