@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/drawable/button.xml" value="0.2869791666666667" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/drawable/colorbtn.xml" value="0.2869791666666667" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/drawable/gradient_background.xml" value="0.2869791666666667" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/drawable/mybtn3.xml" value="0.2755208333333333" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/drawable/mybutton.xml" value="0.2755208333333333" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/drawable/shape.xml" value="0.2755208333333333" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_add_balance_page.xml" value="0.25" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_book_ticket_page.xml" value="0.25" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_home_page.xml" value="0.264" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_login_page.xml" value="0.259375" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_register_page.xml" value="0.4" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_select_page.xml" value="0.264" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_ticket_details_page.xml" value="0.264" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/activity_view_ticket_page.xml" value="0.25" />
+        <entry key="..\:/Train-Ticket-Booking-master/Train-Ticket-Booking-master/app/src/main/res/layout/login2.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
